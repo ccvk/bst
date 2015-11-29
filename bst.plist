@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>common.test2</string>
+				<string>com.liang.bst</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
